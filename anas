@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My University Experience</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h2 {
+            border-bottom: 2px solid #000;
+            padding-bottom: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        img {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <h2>Campus Involvement</h2>
+    <p>I am actively involved in a number of clubs and organizations at Qatar University. Some of the clubs I am a member of include:</p>
+    <ul>
+        <li>Computer Science Club</li>
+        <li>Robotics Club</li>
+        <li>Gaming Club</li>
+    </ul>
+    
+    <h2>Internship Experience</h2>
+    <p>I have had the opportunity to gain valuable work experience through a number of internships while in college at Qatar University. Some of the internships I have had include:</p>
+    <table>
+        <tr>
+            <th>Internship</th>
+            <th>Company</th>
+            <th>Duration</th>
+        </tr>
+        <tr>
+            <td>Software Developer</td>
+            <td>Qatar IT Solutions</td>
+            <td>Summer 2020</td>
+        </tr>
+        <tr>
+            <td>Data Analyst</td>
+            <td>Qatar Data Systems</td>
+            <td>Fall 2021</td>
+        </tr>
+        <tr>
+            <td>Full Stack Developer</td>
+            <td>Qatar Tech Innovations</td>
+            <td>Spring 2022</td>
+        </tr>
+    </table>
+    
+    <h2>Study Abroad</h2>
+    <p>I had the opportunity to study abroad in Tokyo, Japan for a semester. It was an amazing experience that allowed me to learn about a different culture and improve my language skills.</p>
+    <img src="https://www.diplomatisches-magazin.de/fileadmin/_processed_/f/4/csm_jezael-melgoza-1127048-unsplash_3af6a70a55.jpg" alt="Tokyo, Japan">
+    <p><em>Fig 2. Tokyo, Japan</em></p>
+    
+    <h2>Future Plans</h2>
+    <p>After graduation, I plan to pursue a career in software development. I am particularly interested in working on projects related to artificial intelligence and machine learning.</p>
+</body>
+</html>
